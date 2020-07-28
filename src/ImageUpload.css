@@ -6,9 +6,9 @@
     margin-right: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    position: sticky; 
+    position: static; 
     bottom: 0;
-    background-color: white;
+    background-color:#F1EDBE;
     border-top: 1px solid lightgray;
 }
 .imageupload__progress {
